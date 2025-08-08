@@ -7,7 +7,7 @@ Monitors car sales performance over time
 Tracks KPIs such as sales amount, units sold, and average price
 Provides regional and categorical breakdowns for deeper analysis
 Supports decision-making with clear, data-driven insights
-3. KPIs Tracked
+# 3. KPIs Tracked
 Sales Overview KPIs
 
 YTD Total Sales
@@ -38,7 +38,7 @@ YOY Growth in Cars Sold (%)
 
 Difference between YTD and PTYD Cars Sold
 
-4. Dashboard Components
+# 4. Dashboard Components
 YTD Sales Weekly Trend (Line Chart)
 
 YTD Total Sales by Body Style (Pie Chart)
@@ -51,7 +51,7 @@ Company-Wise Sales Trend (Table/Grid)
 
 Detailed Sales Information Grid (Car model, body style, color, sales amount, region, date)
 
-5. Process of Building the Dashboard
+# 5. Process of Building the Dashboard
 Data Collection – Gather sales data from Excel/Database (Car Sales.xlsx).
 
 Data Cleaning – Handle missing values, format dates, standardize categorical data.
@@ -73,7 +73,7 @@ Apply filters, slicers (date, region, body style)
 Testing – Validate KPI values against source data.
 
 Deployment – Publish the dashboard to Power BI Service for stakeholders.
-. Insights from the Dashboard
+# 6.Insights from the Dashboard
 YTD Sales show a steady upward trend, with a noticeable spike in Q2 due to seasonal promotions.
 
 SUVs contribute the largest share of total sales by body style.
@@ -83,6 +83,6 @@ White and Black cars dominate color preferences.
 Region A consistently outperforms other dealer regions in both sales amount and units sold.
 
 Average selling price has increased YOY, suggesting stronger pricing power or higher demand for premium models.
-7. Conclusion
+# 7. Conclusion
 The Car Sales Dashboard has transformed the way sales performance is monitored. It provides instant access to sales KPIs, enables trend analysis, and highlights top-performing categories and regions. By leveraging this dashboard, management can make faster, evidence-based decisions to improve marketing strategies, inventory planning, and pricing policies.
 
