@@ -104,7 +104,7 @@ Apply filters, slicers (date, region, body style)
 The Car Sales Dashboard has transformed the way sales performance is monitored. It provides instant access to sales KPIs, enables trend analysis, and highlights 
 top-performing categories and regions. By leveraging this dashboard, management can make faster, evidence-based decisions to improve marketing strategies, inventory planning, and pricing policies.
 
-## Screen shots/ Demos
+## 8.Screen shots/ Demos
 # https://github.com/Vikash-2003/Car-Sales-Dashboard/blob/main/CAR%20SALES%20REPORT.png
 
 
