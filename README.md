@@ -1,12 +1,11 @@
 # Car-Sales-Dashboard
 
-## The Description of this project is to design and develop a dynamic and interactive Car Sales Dashboard using Power BI. The dashboard will visualize critical KPIs related to our car sales, helping us understand our sales performance over time and make data-driven decisions.
-2. Objective
+## 1.The Description of this project is to design and develop a dynamic and interactive Car Sales Dashboard using Power BI. The dashboard will visualize critical KPIs related to our car sales, helping us understand our sales performance over time and make data-driven decisions.
+2 # Objective
 Design and develop a dynamic, interactive Power BI dashboard that:
 Monitors car sales performance over time
 Tracks KPIs such as sales amount, units sold, and average price
 Provides regional and categorical breakdowns for deeper analysis
-
 Supports decision-making with clear, data-driven insights
 3. KPIs Tracked
 Sales Overview KPIs
