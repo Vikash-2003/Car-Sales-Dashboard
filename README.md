@@ -5,7 +5,7 @@ Car Sales Performance Dashboard in Power BI
 # 1. Background
 Our company is a car dealership selling various car models across multiple regions. To stay competitive, it’s crucial to track sales performance, pricing trends, and customer preferences in real-time. A Power BI dashboard was developed to consolidate sales data and visualize KPIs, enabling faster and more informed business decisions.
 
-# 2.Objective
+ 2.Objective
 *Design and develop a dynamic, interactive Power BI dashboard that:
 
 *Monitors car sales performance over time
